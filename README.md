@@ -39,6 +39,6 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 Se quiser "fortalecer" aí, pode abrir o pull request!! :heart_eyes:
 
 ## Licença
-[GPL-3.0 License ](https://github.com/IEEEComputerSocietyUFBA/Batalha-Naval/blob/main/LICENSE)
+[GPL-3.0 License ](https://github.com/taffarel55/batalhaNaval/blob/main/LICENSE)
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
